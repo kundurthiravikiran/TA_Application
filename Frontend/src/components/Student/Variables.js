@@ -1,0 +1,18 @@
+export const allPreviousCourses = [
+	"Operating Systems",
+	"Computer Networks",
+	"Database Systems",
+	"Software Engineering",
+	"Computer Architecture",
+	"Computer Organization",
+	"Data Structures",
+	"Algorithms",
+	"Discrete Mathematics",
+	"Computer Graphics",
+	"Computer Vision",
+	"Artificial Intelligence",
+	"Machine Learning",
+	"Deep Learning",
+	"Computer Security",
+	"Cryptography",
+];

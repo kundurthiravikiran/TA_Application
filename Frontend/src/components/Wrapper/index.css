@@ -1,0 +1,8 @@
+.NavMenuItem {
+  color: #777;
+  cursor: pointer;
+}
+
+.NavMenuItem:hover {
+  color: #000;
+}
